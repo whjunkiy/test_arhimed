@@ -25,6 +25,9 @@
     tfoot tr td {
         padding: 6px;
     }
+    table thead tr td {
+        cursor: pointer;
+    }
     .bold {
         font-weight: bold;
     }
